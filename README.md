@@ -51,6 +51,10 @@
 
 **Finally, since people in Des Moines travel for work and visit downtown sites, a bike sharing business would be successful.**
 
+### Additional Visualizations
+- A chart showing total trips with respect to population in that area would give insight into how many bike rides per person there were. This would be helpful since the population sizes of New York and Des Moines vary drastically. 
+- A chart showing start and stop locations compared to the number of attractions in the area would give insight into the reason why people are biking to a particular location. The chart could have bubbles or circles with the radius represented by the number of attractions in the area.
+
 ## Resources
 - Data Source: 201908-citibike-tripdata.csv, converted citibike_data.csv
 - Software:  Tableau Public, Pandas, Jupyter notebook
