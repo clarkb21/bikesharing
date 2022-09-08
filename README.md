@@ -43,6 +43,14 @@
 ## Summary
 #### A bike sharing business in Des Moines, Iowa would be very profitable. Heres why...
 
+1. Bike sharing data in New York City shows that a majority of bike users are utilizing the bike as a form of transportation to and from work. People in Des Moines will also have to commute to work. 
+2. People of all ages ride bikes, because people of all ages need transformation to work or school. 
+3. Weekend usage is during the middle of day when tourists are active and visiting a variety of downtown sites.
+4. Men and women both utilize the bike sharing opportunity, even though men do use the bikes more often. 
+5. Trips were taken to reach a destination, but also to return them back to where they started, usually later in they day. 
+
+**Finally, since people in Des Moines travel for work and visit downtown sites, a bike sharing business would be successful.**
+
 ## Resources
 - Data Source: 201908-citibike-tripdata.csv, converted citibike_data.csv
 - Software:  Tableau Public, Pandas, Jupyter notebook
