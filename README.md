@@ -41,6 +41,7 @@
 ![image](https://user-images.githubusercontent.com/104038813/189182511-160808b4-b843-4b88-905d-85690c00bc6c.png)
 
 ## Summary
+#### A bike sharing business in Des Moines, Iowa would be very profitable. Heres why...
 
 ## Resources
 - Data Source: 201908-citibike-tripdata.csv, converted citibike_data.csv
