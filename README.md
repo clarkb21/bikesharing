@@ -59,7 +59,7 @@
 - Data Source: 201908-citibike-tripdata.csv, converted citibike_data.csv
 - Software:  Tableau Public, Pandas, Jupyter notebook
 - MSU Bootcamp Spot Module 14: https://courses.bootcampspot.com/courses/2508/pages/14-dot-0-4-citi-bike-cruisin?module_item_id=636896
-- Link to Tableau Public source: https://public.tableau.com/shared/TWTQQY3G3?:display_count=n&:origin=viz_share_link
+- Link to Tableau Public source: [link to dashboard]https://public.tableau.com/shared/TWTQQY3G3?:display_count=n&:origin=viz_share_link
 
 
 
