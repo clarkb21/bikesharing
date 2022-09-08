@@ -16,8 +16,8 @@
 - The Tableau worksheets are then organized into a Tableau story with narration. 
 
 ## Results
-1. ![image](https://user-images.githubusercontent.com/104038813/189180077-031077b6-dd3d-4ae6-8c71-72bf34de51fd.png)
-Checkout times for all users can be filtered based on the time of day. The line chart shows that bikes are most frequently checked out during the morning and evening commutes. 
+1. Checkout times for all users can be filtered based on the time of day. The line chart shows that bikes are most frequently checked out during the morning and evening commutes.   ![image](https://user-images.githubusercontent.com/104038813/189180077-031077b6-dd3d-4ae6-8c71-72bf34de51fd.png)
+
 2. 
 
 
