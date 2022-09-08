@@ -31,9 +31,14 @@
 **5. The most common times that the bikes were used was during commuting times in the morning and afternoons. Weekends saw more usage during the middle of the day.** 
 ![image](https://user-images.githubusercontent.com/104038813/189181612-210fbbb4-ae61-4593-ad2f-b72079893f08.png)
 
-6. 
+**6. The day and time of bike usage can be broken down by gender. Both men and women show similar patterns on the busiest times to ride bikes.**
+![image](https://user-images.githubusercontent.com/104038813/189182155-a12a7c69-8458-4c62-9557-a5e4dbdb10d2.png)
 
+**7. The bike sharing business is directed towards any specific generation or age range either. People of all ages rely on bicyles as a main form of transportation.**
+![image](https://user-images.githubusercontent.com/104038813/189182364-e8568b71-2f48-4642-9518-57f8caadc4a2.png)
 
+**8. The company can track which bikes get used the most, where they are used, and which ones will need maintenance.**
+![image](https://user-images.githubusercontent.com/104038813/189182511-160808b4-b843-4b88-905d-85690c00bc6c.png)
 
 ## Summary
 
